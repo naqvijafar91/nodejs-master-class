@@ -202,3 +202,6 @@ Hands-On
 
 1. https://www.youtube.com/watch?v=JnvKXcSI7yk
 2. https://www.youtube.com/watch?v=RLtyhwFtXQA
+
+# Learn Git
+[Learn Git in 15 minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
